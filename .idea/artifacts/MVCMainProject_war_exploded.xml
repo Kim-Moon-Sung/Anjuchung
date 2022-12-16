@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MVCMainProject:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVCMainProject_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MVCMainProject/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Anjuchung" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/annotations-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/catalina-ant.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/catalina-ha.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/catalina-ssi.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/catalina-storeconfig.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/catalina.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/commons-fileupload-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/commons-io-2.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/cos.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/ecj-4.20.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/el-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/jasper-el.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/jasper.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/jaspic-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/tomcat-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/tomcat-util.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../apache-tomcat-9.0.65/lib/websocket-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../jstl/jakarta.servlet.jsp.jstl-2.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../jstl/jakarta.servlet.jsp.jstl-api-2.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../jstl/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../mysql-connector-java-8.0.29/mysql-connector-java-8.0.29.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
